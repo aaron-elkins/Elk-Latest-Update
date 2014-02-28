@@ -1,2 +1,2 @@
-1.0
-http://www.pixelegg.me/
+1.0.1
+http://www.pixelegg.me/elk
